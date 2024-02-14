@@ -69,7 +69,7 @@ You can also use [Spring initializer](https://start.spring.io/)
         spring.jpa.hibernate.ddl-auto=update
       ```
         
-3.  Create new peopledb shema in the DB
+3.  Create new peopledb schema in the DB
     
     1.  You can use the console or mySQL workbench or IDE
         
